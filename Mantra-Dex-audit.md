@@ -8,6 +8,8 @@ The MANTRA DEX audit on Code4rena ran from November 29, 2024 to January 13, 2025
 ## My Findings:
 | ID | Issue | Severity | Protocol | Language | Blockchain |
 |---|---|---|---|---|---|
-| H-01 | **Solo** - Pool creation can be manipulated to drain protocol fees [report ->](#audit_link) | High | **MANTRA DEX** - Decentralized exchange with advanced liquidity and trading features | Rust | MANTRA |
-| M-04 | Epoch Manager allows reward distribution manipulation through improper validation [report ->](#audit_link) | Medium | **MANTRA DEX** | Rust | MANTRA |
+| H&#x2011;04 | Block gas limit can be hit due to loop depth [report ->](https://code4rena.com/reports/2024-11-mantra-dex#h-04-block-gas-limit-can-be-hit-due-to-loop-depth) | High | **MANTRA DEX** - Decentralized exchange with advanced liquidity and trading features | Rust | MANTRA Chain |
+| M&#x2011;15 | Emergency Unlocking Penalty Makes Long Duration Positions Economically Advantageous [report ->](https://code4rena.com/reports/2024-11-mantra-dex#m-15-emergency-unlocking-penalty-makes-long-duration-positions-economically-advantageous) | Medium | **MANTRA DEX** | Rust | MANTRA Chain |
+
+<br/>
 
