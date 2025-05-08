@@ -11,11 +11,10 @@ Maia DAO Ecosystem is a cross-chain DeFi protocol focused on efficient liquidity
 The Maia DAO Ecosystem audit on Code4rena took place from May 30, 2023 to July 5, 2023, with a total award pool of $300,500 USDC. The audit identified 79 unique vulnerabilities (35 HIGH and 44 MEDIUM severity), with particular focus on issues related to cross-chain bridging functions like retrySettlement and retrieveDeposit.
 
 **Code4rena**: https://code4rena.com/audits/2023-05-maia-dao-ecosystem  
-**Audit Report**: https://code4rena.com/reports/2023-05-maia
 <br/><br/>
 
 
-## Maia DAO Ecosystem <span style="font-size: 14px;"> - 6 July 2023</span> 
+## Maia DAO Ecosystem - My Findings:
 | ID | Issue | Severity | Protocol | Language | Blockchain |
 |---|---|---|---|---|---|
 | H&#x2011;05 | Multiple issues with `retrySettlement()` and `retrieveDeposit()` will cause loss of users' bridging deposits [report ->](https://code4rena.com/reports/2023-05-maia#h-05-multiple-issues-with-decimal-scaling-will-cause-incorrect-accounting-of-htokens-and-underlying-tokens) | High | **Maia DAO Ecosystem** - Cross-chain DeFi protocol with bridging and settlement functions | Solidity | Multi-chain |
