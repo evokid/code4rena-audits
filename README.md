@@ -15,9 +15,9 @@ My contributions include discovering 24 high-severity vulnerabilities (with 1 so
 |----------|-------------|------|-----------------|----------|------------|
 | [Pump Science](Pump-Science-audit.md) | DeFi protocol implementing tokenized longevity research with bonding curve mechanisms <span style="font-size: 12px;">- 24 Jan 25</span> | 3rd | 2M <br>**1Solo** | Rust | Solana |
 | [MANTRA DEX](Mantra-Dex-audit.md) | Decentralized exchange with advanced liquidity and trading features <span style="font-size: 12px;">- 14 Jan 25</span> | - | 1H, 1M | Rust | MANTRA |
-| [Unruggable Invitational](#audit_link) | Protocol designed to prevent rug pulls and enhance Ethereum naming security <span style="font-size: 12px;">- 21 Dec 24</span> | 2nd | 1M <br>**1Solo** | Solidity | Ethereum |
+| [Unruggable Invitational](Unruggable-Invitational-audit.md) | Protocol designed to prevent rug pulls and enhance Ethereum naming security <span style="font-size: 12px;">- 21 Dec 24</span> | 2nd | 1M <br>**1Solo** | Solidity | Ethereum |
 | [Lambo.win](#audit_link) | Tokenized virtual assets platform with rebalancing mechanisms <span style="font-size: 12px;">- 10 Dec 24</span> | 1st | 3H, 6M <br>**1Solo** | Solidity | Ethereum |
-| [LoopFi](#audit_link) | DeFi lending protocol with CDP vaults and leveraged staking mechanisms <span style="font-size: 12px;">- 16 Aug 24</span> | 4th | 1H | Solidity | Ethereum |
+| [LoopFi](loopfi-16AUG24-audit.md) | DeFi lending protocol with CDP vaults and leveraged staking mechanisms <span style="font-size: 12px;">- 16 Aug 24</span> | 4th | 1H | Solidity | Ethereum |
 | [Phi](#audit_link) | Innovative DeFi platform with signature-based reward claiming <span style="font-size: 12px;">- 9 May 24</span> | 6th | 1H | Solidity | Ethereum |
 | [LoopFi](#audit_link) | DeFi lending protocol with CDP vaults and leveraged staking mechanisms <span style="font-size: 12px;">- 19 Oct 24</span> | 3rd | 3H, 2M <br>**2Solo** | Solidity | Ethereum |
 | [Munchables](#audit_link) | Token locking and price approval protocol with mechanism design <span style="font-size: 12px;">- 28 May 24</span> | - | 1H, 1M | Solidity | Ethereum |
