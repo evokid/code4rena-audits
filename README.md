@@ -6,7 +6,7 @@ My contributions include discovering 24 high-severity vulnerabilities (with 1 so
 
 <br>
 
-## My Code4rena Audits
+## My Audits at Code4rena
 
 
 
